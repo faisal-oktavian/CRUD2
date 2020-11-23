@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Membuat CRUD Dengan PHP Dan MySQL - Menampilkan data dari database</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style.css"><!--css-->
 </head>
 <body>
 	<div class="judul">		
